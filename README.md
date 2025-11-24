@@ -27,7 +27,7 @@ User Profile: Experienced Professor of Cardiothoracic Surgery with more than two
 
 Style: Professional, clear, and instructional — emphasizing medical accuracy without dramatization or unnecessary visual intensity
 
-Proposed System Overview:
+### Proposed System Overview:
 The study utilizes a text-to-video generation system designed to produce anatomically accurate and temporally coherent surgical video sequences. Each phase of the operation is translated into a structured series of prompts, directing the model to recreate the procedure with precision and continuity.
 
 ## Procedure:
@@ -68,13 +68,18 @@ Website: MidJourney
 Instructions:
 Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
 
-Write the Basic Prompt: Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
+### Write the Basic Prompt: 
+Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
 
-Refine and Add Details: Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
+### Refine and Add Details: 
+Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
 
-Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
+### Use the Selected Tool:
+Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
 
-Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
+
+### Iterate and Adjust: 
+If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 
 Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
 
@@ -112,14 +117,14 @@ Have experienced surgeons review the generated clips for anatomical precision, c
 9. Final Output
 Produce a high-definition, labeled, and narrated video series with an ethical disclaimer for classroom, self-learning, or anatomy lab use.
 
-image
+### image
 AI Tools and Technologies:
 Purpose	Tool / Role
 Video Generation	Pika Labs / Runway Gen-3 — create HD surgical clips
 Anatomy & Accuracy	BodyParts3D / Med3D — ensure correct structures
 Narration & Captions	ElevenLabs / Whisper — clinical voiceover and subtitles
 Editing & Integration	DaVinci Resolve / H5P — assemble clips and interactive modules
-Evaluation Metrics:
+### Evaluation Metrics:
 Metric	Purpose
 Anatomy Accuracy	Verify structures are correctly depicted
 Procedural Fidelity	Check steps follow proper surgical sequence
@@ -128,7 +133,7 @@ Visual Clarity	Assess video resolution and visibility
 Educational Value	Measure learning effectiveness for students
 Narration & Caption Accuracy	Ensure voiceover and subtitles are correct
 image
-Applications and Future Scope:
+### Applications and Future Scope:
 Category	Applications / Future Scope
 Medical Education	Interactive classroom simulations, self-learning, digital anatomy labs
 Surgical Training	Risk-free practice for residents, preoperative planning, skill assessment

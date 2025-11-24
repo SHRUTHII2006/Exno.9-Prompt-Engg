@@ -117,6 +117,9 @@ Have experienced surgeons review the generated clips for anatomical precision, c
 9. Final Output
 Produce a high-definition, labeled, and narrated video series with an ethical disclaimer for classroom, self-learning, or anatomy lab use.
 
+<img width="1792" height="1024" alt="image" src="https://github.com/user-attachments/assets/215d7dac-d788-43f4-a2a8-1466cb7594b9" />
+
+
 ### image
 AI Tools and Technologies:
 Purpose	Tool / Role
@@ -132,14 +135,16 @@ Instrument Recognition	Ensure tools are correctly identified
 Visual Clarity	Assess video resolution and visibility
 Educational Value	Measure learning effectiveness for students
 Narration & Caption Accuracy	Ensure voiceover and subtitles are correct
-image
+
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/65ce1b66-adff-4514-ab04-19bf3b8b541d" />
+
 ### Applications and Future Scope:
 Category	Applications / Future Scope
 Medical Education	Interactive classroom simulations, self-learning, digital anatomy labs
 Surgical Training	Risk-free practice for residents, preoperative planning, skill assessment
 Research & Simulation	Development of new procedures, virtual trials, anatomy research
 Future Scope	Integration with VR/AR, real-time AI guidance, adaptive learning modules, global remote training
-Deliverables:
+## Deliverables:
 The Original Video: Provided Video for reference.
 
 The Final Generated Video: The Video created using your refined prompt.

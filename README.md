@@ -128,7 +128,7 @@ Anatomy & Accuracy	BodyParts3D / Med3D — ensure correct structures
 Narration & Captions	ElevenLabs / Whisper — clinical voiceover and subtitles
 Editing & Integration	DaVinci Resolve / H5P — assemble clips and interactive modules
 ### Evaluation Metrics:
-Metric	Purpose
+Metric	Purpose 
 Anatomy Accuracy	Verify structures are correctly depicted
 Procedural Fidelity	Check steps follow proper surgical sequence
 Instrument Recognition	Ensure tools are correctly identified
